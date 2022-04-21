@@ -8,10 +8,10 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q95562"> <!-- The Peasant Dance painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q95569"> <!-- Kunsthistorisches Museum -->
+<param ve-entity eid="Q1741"> <!-- Vienna -->
 
 # Sample visual essay
 
@@ -27,10 +27,10 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Peasant Dance" 
+       label="The Peasant Dance" 
        description="painting by Pieter Bruegel the Elder" 
        license="public domain" 
-       url="https://seadragon.hpc.nyu.edu/iiif/2/LS_Global_Image_Gallery%2Fobj108%2Fobj108.jpg/full/full/0/default.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg">
 
 ## Map
 
