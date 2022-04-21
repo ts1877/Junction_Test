@@ -23,7 +23,7 @@ Pieter Bruegel the Elder (c 1525-1569) was a painter active in Holland and Fland
        label="The Peasant Dance" 
        description="painting by Pieter Bruegel the Elder" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg">
+       url="https://seadragon.hpc.nyu.edu/iiif/2/LS_Global_Image_Gallery%2Fobj108%2Fobj108.jpg/full/full/0/default.jpg">
 
 ## Current Location
 
