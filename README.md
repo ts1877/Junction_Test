@@ -25,17 +25,12 @@ Pieter Bruegel the Elder (c 1525-1569) was a painter active in Holland and Fland
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Pieter_Bruegel_the_Elder_-_The_Peasant_Dance_-_WGA3499.jpg">
 
-## Map
+## Current Location
 
 This painting lives in Vienna. Isn't that nice?
 <param ve-map center="Q1741" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## Place of Origin
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
+It was painted in Brussels. I hear they have great pomme frites. 
+<param ve-map center="Q239" zoom="11">
