@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Bruegel the Elder"
+       title="The Peasant Dance"
+       author="Bruegel the Elder"
        banner="https://seadragon.hpc.nyu.edu/iiif/2/LS_Global_Image_Gallery%2Fobj106%2Fobj106.jpg/full/full/0/default.jpg" 
        layout="vertical">
 
