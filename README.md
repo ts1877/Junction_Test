@@ -13,7 +13,7 @@
 <param ve-entity eid="Q95569"> <!-- Kunsthistorisches Museum -->
 <param ve-entity eid="Q1741"> <!-- Vienna -->
 
-# Sample visual essay
+# A test visual essay
 
 <param ve-image 
        manifest="https://gist.githubusercontent.com/ts1877/b6df75409f45f1b052b2235d8d47c027/raw/d96605182b5187d61161f9b5e3d39a3e302350bd/obj108_manifest.json">
