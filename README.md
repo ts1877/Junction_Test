@@ -9,7 +9,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q95562"> <!-- The Peasant Dance painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q41264"> <!-- Pieter Bruegel the Elder -->
 <param ve-entity eid="Q95569"> <!-- Kunsthistorisches Museum -->
 <param ve-entity eid="Q1741"> <!-- Vienna -->
 
